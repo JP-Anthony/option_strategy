@@ -1,5 +1,5 @@
 
-This is an R Model that creates graphs charting Profit and Loss of two options against the close price. 
+This is an R model that creates graphs of the Profit and Loss of two options against the close price. 
 
 This model from Natenburg's Option Volitality and Pricing, Ch. 4 and is called the Parity Graph, Intrinsic Value Graph or, hockey stick diagram. To build this we make the assumption that both options are on the same security and that they expire at the same time. This model charts the progress of two options; puts or calls and buys or sells. The total PnL of both options is also calculated and graphed as well.
 
