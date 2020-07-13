@@ -33,11 +33,11 @@ Also interesting is the slope. Each individual option has a slope of 1:1, howeve
 
 ![test](https://github.com/JP-Anthony/option_strategy/blob/master/twoputs.JPG?raw=true)
 
-There's loads of other strategies and the graphs are fully explained in Natenburg and that's pretty cool. To run this plug in what you want for the two options, opt1 and opt2:
+There's loads of other strategies and the graphs are fully explained in Natenburg and that's pretty cool. To run this enter what you want for the two options, opt1 and opt2:
 opt1 <- c(1, 1, 70, 5)
 opt2<- c(1, 1, 85, 2)
 
-Enter the variables you want based on the below in order:
+Enter the variables you want:
 Put 1 /Call -1,
 Buy 1 /Sell -1,
 Strike #,
